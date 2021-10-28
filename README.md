@@ -23,7 +23,7 @@ lalu tunggu instalasi berjalan sampai selesai
 
 lalu klik finish setelah instalasi selesai
 
-![img](screenshot/Picture6.png)
+![img](screenshot/picture6.png)
 
 ### cek versi git
 buka cmd pada windows
@@ -37,11 +37,8 @@ lalu masukan perintah berikut untuk mengecek apakah git sudah terinstall
 
 jika git sudah berhasil terinstall, maka akan muncul tampilan seperti dibawah ini
 
-<<<<<<< HEAD
-![img](screenshot/Pictures8.png)
-=======
+
 ![img](screenshot/Picture8.png)
->>>>>>> ab03392b64c6079263d6d90c3ad49ce80e0b5b4b
 
 # membuat repository
 
@@ -142,13 +139,13 @@ masukan perintah berikut untuk push ke github
 
 jika proses berhasil akan muncul tampilan sebagai berikut
 
-<<<<<<< HEAD
+
 ![img](screenshot/Picture22.png)
-=======
+
 ![img](screenshot/Picture22.png)
 
 ### cek pekerjaan
 masuk ke github dan cek apakah pekerjaan sudah selesai
 
 ![img](screenshot/Picture23.png)
->>>>>>> ab03392b64c6079263d6d90c3ad49ce80e0b5b4b
+
