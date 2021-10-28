@@ -1,5 +1,6 @@
-# install git 
-### masuk pada browser ,dan download dulu git bash
+# **INSTALL GIT**
+### Download git bash
+masuk pada browser ,dan download dulu git bash
 atau klik [git bash](git-scm.com)
 
 ### install git bash 
@@ -40,8 +41,7 @@ jika git sudah berhasil terinstall, maka akan muncul tampilan seperti dibawah in
 
 ![img](screenshot/Picture8.png)
 
-# membuat repository
-
+# **MEMBUAT REPOSITORY**
 buka github pada browser 
 atau klik [github](http://github.com)
 
