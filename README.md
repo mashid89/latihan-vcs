@@ -5,7 +5,7 @@ atau klik [git bash](git-scm.com)
 ## install git bash 
 setelah terdownload lalu install git bash
 
-![img](screenshot/picture2.png)
+![gambar 1](screenshot/picture2.png)
 
 lalu akan muncul documen license dari git
 klik next untuk melanjutkan instalasi
