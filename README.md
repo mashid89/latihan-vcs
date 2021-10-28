@@ -32,7 +32,7 @@ buka cmd pada windows
 
 lalu masukan perintah berikut untuk mengecek apakah git sudah terinstall
 
-' git --version '
+> $ git --version
 
 jika git sudah berhasil terinstall, maka akan muncul tampilan seperti dibawah ini
 
