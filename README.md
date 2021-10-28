@@ -5,7 +5,7 @@ atau klik [git bash](git-scm.com)
 ## install git bash 
 setelah terdownload lalu install git bash
 
-![github logo](/screenshot/picture2.png)
+! [github logo](/screenshot/picture2.png)
 
 lalu akan muncul documen license dari git
 klik next untuk melanjutkan instalasi
@@ -32,9 +32,9 @@ buka cmd pada windows
 
 lalu masukan perintah berikut untuk mengecek apakah git sudah terinstall
 
-
-'git --version'
-
+'''
+git --version'
+'''
 
 jika git sudah berhasil terinstall, maka akan muncul tampilan seperti dibawah ini
 
