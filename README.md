@@ -28,7 +28,7 @@ lalu klik finish setelah instalasi selesai
 ## cek versi git
 buka cmd pada windows
 
-![img](screenshot/Picture7)
+![img](screenshot/Picture7.png)
 
 lalu masukan perintah berikut untuk mengecek apakah git sudah terinstall
 
