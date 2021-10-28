@@ -5,40 +5,39 @@ atau klik [git bash](git-scm.com)
 ## install git bash 
 setelah terdownload lalu install git bash
 
-! [github logo](/screenshot/picture2.png)
+![img](/screenshot/Picture2.png)
 
 lalu akan muncul documen license dari git
 klik next untuk melanjutkan instalasi
 
-![img](screenshot/picture3.png)
+![img](screenshot/Picture3.png)
 
 lalu akan muncul komponen tambahan untuk install git
 
-![img](screenshot/picture4.png)
+![img](screenshot/Picture4.png)
 
 
 lalu tunggu instalasi berjalan sampai selesai
 
-![img](screenshot/screenshot_188.png)
+![img](screenshot/Screenshot_188.png)
 
 lalu klik finish setelah instalasi selesai
 
-![img](screenshot/picture6.png)
+![img](screenshot/Picture6.png)
 
 ## cek versi git
 buka cmd pada windows
 
-![img](screenshot/picture7)
+![img](screenshot/Picture7)
 
 lalu masukan perintah berikut untuk mengecek apakah git sudah terinstall
 
-'''
-git --version'
-'''
+
+> $ git --version
 
 jika git sudah berhasil terinstall, maka akan muncul tampilan seperti dibawah ini
 
-![img](screenshot/pictures8.png)
+![img](screenshot/Pictures8.png)
 
 # membuat repository
 
@@ -48,12 +47,12 @@ atau klik [github](http://github.com)
 ## login github
 setelah masuk ke git akan keluar tampilan berikut ini
 
-![img](screenshot/picture11.png)
+![img](screenshot/Picture11.png)
 
 apabila sudah memiliki akun langsung sign in pada github
 masukan username dan password github .lalu klik sign in
 
-![img](screenshot/picture12.png)
+![img](screenshot/Picture12.png)
 
 
 ## membuat repository baru
@@ -61,7 +60,7 @@ masukan username dan password github .lalu klik sign in
 setelah berhasil login github ,lalu membuat repository .
 klik tombol new pada menu repoositories untuk membuat repository baru
 
-![img](screenshot/picture13.png)
+![img](screenshot/Picture13.png)
 
 lalu isi nama, deskripsi, dan jenis repository , 
 lalu centang add README.md
@@ -70,18 +69,18 @@ setelah selesai mengisi lalu klik create
 ## buat folder pada windows
 
 selanjutnya buat folder baru pada local disk komputer untuk menyimpan update file dari repository yang telah dibuat
-![img](screenshot/picture1.png)
+![img](screenshot/Picture1.png)
 
 ## buka folder menggunakan git bash
 
 klik kanan pada folder yang telah dibuat .
 lalu klik git bash here
 
-![img](screenshot/picture9.png)
+![img](screenshot/Picture9.png)
  
 lalu akan muncul tampilan dibawah ini
 
-![img](screenshot/picture10.png)
+![img](screenshot/Picture10.png)
 
 ## clone repository 
 
@@ -89,64 +88,54 @@ masuk ke repository pada github
 lalu klik code
 
 dan salin alamat repository seperti pada gambar berikut
-![img](screenshot/picture14.png)
+![img](screenshot/Picture14.png)
 
 lalu masuk ke git bash lagi .
 dan masukann perintah berikut
 
-'
-$ git clone *salinan dari url repository*
-'
+> $ git clone *salinan dari url repository*
 
 lalu akan muncul tampi;lan berikut
 
-![img](screenshot/picture15.png)
+![img](screenshot/Picture15.png)
 
 ## rubah folder menjadi repository
 
 lakukan perintah berikut agar folder menjadi repository
 
-'
-$ cd *nama repository*
-'
+> $ cd *nama repository*
 
 lalu akan muncul tampilan sebagai berikut
 
-![img](screenshot/picture16.png)
+![img](screenshot/Picture16.png)
 
 ## menambahkan file
 
 pada git bash masukan perintah berikut
 
-'
-$ git add .
-'
+> $ git add .
 
 lalu akan muncul tampilan berikut
 
-![img](screenchot/picture20.png)
+![img](screenshot/Picture20.png)
 
 ## buat commit
 
 commit berfungsi menambahkan komentar pada file yang baru diupload.
 masukan perintah berikut untuk membuat commit
 
-'
-$ git commit -m"*masukan coommit*"
-'
+> $ git commit -m"*masukan coommit*"
 
 kalian bebas memasukan nama commit .
 
-![img](screenshot/picture21.png)
+![img](screenshot/Picture21.png)
 
 ## push ke github
 
 masukan perintah berikut untuk push ke github
 
-'
-$ git push -u origin main
-'
+> $ git push -u origin main
 
 jika proses berhasil akan muncul tampilan sebagai berikut
 
-![img](screenshot/picture22.png)
+![img](screenshot/Picture22.png)
